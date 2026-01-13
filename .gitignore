@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Системные файлы
+*.log
+*.pid
+*.sqlite3
+
+# Бэкапы и временные файлы
+backups/*.tar.gz
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
